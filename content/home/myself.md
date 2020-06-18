@@ -50,6 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 <p style="text-align: center;">Centered text</p>
+<div align="center">
+
+# This is gonna be centered!
+</div>
 
 
 
