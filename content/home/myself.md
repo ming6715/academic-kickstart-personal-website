@@ -29,9 +29,9 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "walking.jpg"  # Name of image in `static/img/`.
+  image = "walking(2).jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
@@ -52,10 +52,11 @@ subtitle = ""
 
 <br/><br/>
 <br/><br/>
-<div align="center";>  
-  <h1 style="font-size:200%;">Welcome to Mingjun's data world!!</h1>
-<br/><br/>
-<br/><br/>
+
+<div align="center";> 
+  <h1 style="font-size:100%;>Welcome to my data world, I'm</h1>
+  <h2 style="font-size:200%;">-----Mingjun Li------</h2>
 </div>
 
-
+<br/><br/>
+<br/><br/>
