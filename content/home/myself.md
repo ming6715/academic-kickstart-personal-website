@@ -53,7 +53,7 @@ subtitle = ""
 <br/><br/><br/><br/><br/>
 
 <div> 
-  <p style="font-family: Gabriola; font-size:100%;"> <span class="tab"> Welcome to my data world! I'm</span></p>
+  <prep>    </prep><p style="font-family: Gabriola; font-size:100%;">Welcome to my data world! I'm</span></p>
   <h1 style="font-size:300%;">Mingjun Li.</h1>
 </div>
 
