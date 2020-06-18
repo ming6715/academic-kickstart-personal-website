@@ -49,10 +49,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div align="center";>
+
 <br/><br/>
 <br/><br/>
-  {{< figure library="true" src="graduate.jpg" title="A caption" lightbox="true" >}}<h1 style="font-size:200%;">Welcome to Mingjun's data world!!</h1>
+{{< figure library="true" src="graduate.jpg" title="A caption" lightbox="true" >}}
+<div align="center";>  
+  <h1 style="font-size:200%;">Welcome to Mingjun's data world!!</h1>
 <br/><br/>
 <br/><br/>
 </div>
