@@ -54,13 +54,25 @@ subtitle = ""
 # This is gonna be centered!
 </div>
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+<style>
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+</style>
 
-
+<div class="container">
+  <div class="vertical-center">
+    <p>I am vertically centered.</p>
+  </div>
+</div>
 
