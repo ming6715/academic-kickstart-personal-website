@@ -51,7 +51,7 @@ subtitle = ""
 +++
 <div align="center";height: 200px;>
 
-# This is gonna be centered!
+# Hi, Welcome to Mingjun's data world!
 </div>
 
 
