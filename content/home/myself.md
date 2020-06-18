@@ -49,9 +49,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div align="center";height: 2000px;>
-
-# Hi, Welcome to Mingjun's data world!!
+<div align="center";>
+  <p></p>
+# Hi, Welcome to Mingjun's data world!
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
 </div>
 
 
