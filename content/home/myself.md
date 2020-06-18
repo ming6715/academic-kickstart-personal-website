@@ -50,13 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-<br/><br/>
-<br/><br/>
+<br/><br/><br/><br/><br/>
 
 <div align="center";> 
-  <h1 style="font-size:100%;>Welcome to my data world, I'm</h1>
+  <h1 style="font-size:100%;">Welcome to my data world, I'm</h1>
   <h2 style="font-size:200%;">-----Mingjun Li------</h2>
 </div>
 
-<br/><br/>
-<br/><br/>
+<br/><br/><br/><br/><br/>
