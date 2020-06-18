@@ -49,11 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p></p>
-<p></p>
-<p>Hi, welcome to Mingjun's data world</p>
-<p></p>
-<p></p>
+<textarea rows="20",col="50">
+Hi
+</textarea>
 
 
 
