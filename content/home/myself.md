@@ -49,8 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div text-align: center;>
-  <p>Hi!</p>
+<div height: 200px;>
+  <p style="text-align:center;">Hi!</p>
 </div>
 
 
