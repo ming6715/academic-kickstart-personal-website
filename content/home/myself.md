@@ -53,7 +53,7 @@ subtitle = ""
 <br/><br/><br/><br/><br/>
 
 <div align="center";> 
-  <h3 style="font-family: Apple Chancery,cursive; font-size:100%;">Welcome to my data world! I'm</h3>
+  <p style="font-family: Apple Chancery,Cursive; font-size:100%;">Welcome to my data world! I'm</p>
   <h1 style="font-size:300%;">Mingjun Li.</h1>
 </div>
 
