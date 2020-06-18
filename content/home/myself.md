@@ -52,8 +52,7 @@ subtitle = ""
 <div align="center";>
 <br/><br/>
 <br/><br/>
-  <h1 style="font-size:300%;">This is a heading</h1>
-  <p>Hi, Welcome to Mingjun's data world!</p>
+  <h1 style="font-size:300%;">Hi, Welcome to Mingjun's data world!</h1>
 <br/><br/>
 <br/><br/>
 <br/><br/>
