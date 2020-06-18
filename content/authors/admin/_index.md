@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mingjun Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,17 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MS in Business Analytics Graduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Miami
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+test:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
