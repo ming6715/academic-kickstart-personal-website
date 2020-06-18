@@ -49,30 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div align="center">
+<div align="center";height: 200px;>
 
 # This is gonna be centered!
 </div>
 
-<style>
-.container {
-  height: 200px;
-  position: relative;
-  border: 3px solid green;
-}
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-</style>
-
-<div class="container">
-  <div class="vertical-center">
-    <p>I am vertically centered.</p>
-  </div>
-</div>
 
