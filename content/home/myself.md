@@ -49,11 +49,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p style="text-align: center;">Centered text</p>
 <div align="center">
 
 # This is gonna be centered!
 </div>
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 
 
 
