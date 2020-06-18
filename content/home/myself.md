@@ -53,8 +53,8 @@ subtitle = ""
 <br/><br/><br/><br/><br/><br/>
 
 <div> 
-  <p white-space: pre; style="font-family: Gabriola; font-size:300%;">&emsp;&emsp;---Welcome to my data world! I'm---</span></p>
-  <h1 style="font-size:300%;">Mingjun Li.</h1>
+  <p white-space: pre; style="font-family: Gabriola; font-size:300%;">&emsp;&emsp;&emsp;&emsp;---Welcome to my data world! I'm---</span></p>
+  <h1 style="font-size:300%;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mingjun Li.</h1>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
