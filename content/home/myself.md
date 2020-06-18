@@ -50,11 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <div> 
-  <prep>    </prep><p style="font-family: Gabriola; font-size:100%;">Welcome to my data world! I'm</span></p>
+  <p white-space: pre; style="font-family: Gabriola; font-size:100%;">      ---Welcome to my data world! I'm---</span></p>
   <h1 style="font-size:300%;">Mingjun Li.</h1>
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
