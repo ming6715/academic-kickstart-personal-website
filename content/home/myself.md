@@ -50,14 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 <div align="center";>
-
-
-
-# Hi, Welcome to Mingjun's data world!
-
-
-
-
+<br/><br/>
+<br/><br/>
+  <p>Hi, Welcome to Mingjun's data world!</p>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 </div>
 
 
