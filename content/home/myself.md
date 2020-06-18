@@ -49,9 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<textarea rows="20",col="50">
-Hi
-</textarea>
+<div text-align: center;>
+  <p>Hi!</p>
+</div>
 
 
 
