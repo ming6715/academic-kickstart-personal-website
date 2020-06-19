@@ -75,6 +75,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-tags = ["Data management"]
-
-anything
