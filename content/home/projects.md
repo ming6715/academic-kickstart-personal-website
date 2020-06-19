@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -20,7 +20,6 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = true
-  tags=["Data managment","Data processing","Data visualization"]
   
   [[content.filter_button]]
   name = "Data managment"
