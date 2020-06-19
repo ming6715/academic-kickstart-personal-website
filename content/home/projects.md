@@ -20,6 +20,7 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = true
+  tags=["Data managment","Data processing","Data visualization"]
   
   [[content.filter_button]]
   name = "Data managment"
@@ -74,4 +75,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+tags = ["Data management"]
 
+anything
