@@ -12,7 +12,7 @@ summary = """ construct burget database
 
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
-tags = ["data management"]
+tags = ["Data management"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://" +++
