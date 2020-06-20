@@ -53,7 +53,7 @@ subtitle = ""
 <br/><br/><br/><br/><br/><br/>
 
 <div> 
-  <p white-space: pre; style="font-family: Gabriola; font-size:150%;">&emsp;&emsp;&emsp;&emsp;Hi! I'm</span></p>
+  <p white-space: pre; style="font-family: Gabriola; font-size:150%;">&emsp;&emsp;&emsp;&emsp;&emsp;Hi! I'm</span></p>
   <h1 style="font-size:250%;">&emsp;&emsp;&emsp;&emsp;Mingjun Li.</h1>
 </div>
 
